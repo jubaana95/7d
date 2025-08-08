@@ -1,7 +1,1 @@
-{'ver1': '111','ver2': '195','ver3': ',
-  "whatsNew": {  
-    "ar": "- تحديث قاعدة واتساب إلى الإصدار 2.25.15.80\n- حل مشكلة تفعيل الأرقام على بعض الأجهزة\n- حل مشكلة ظهور رسالة (لابد من استخدام واتساب الرسمي)\n- حل مشكلة الانهيار بعد تفعيل الرقم\n- حل مشكلة الانهيارات عند تغيير الستايل أو المظهر",
-"en": "- WhatsApp base updated to version 2.25.15.80\n- Fixed issue with number activation on some devices\n- Fixed the 'You must use the official WhatsApp' error message\n- Fixed crash after number activation\n- Fixed crashes when changing style or theme"
-},
-  "dli": "https://youtu.be/AoG5i1GGdts",
-  "forceUpdate": false
+{'ver1': '111','ver2': '195','ver3': '\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بشكل جيد\n• تحديث قاعدة الواتساب: 2.25.15.80.\n• [تحسين] الحماية ضد الحظر.\n• تحسينات متعلقة بالاستقرار والأداء.\n• [مزيد] العديد من الميزات الجديدة استمتعوا واكتشفوا الجديد بنفسك!\n', 'dli': 'https://t.me/jubatek'}
