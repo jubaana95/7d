@@ -3,5 +3,5 @@
     "ar": "- تحديث قاعدة واتساب إلى الإصدار 2.25.15.80\n- حل مشكلة تفعيل الأرقام على بعض الأجهزة\n- حل مشكلة ظهور رسالة (لابد من استخدام واتساب الرسمي)\n- حل مشكلة الانهيار بعد تفعيل الرقم\n- حل مشكلة الانهيارات عند تغيير الستايل أو المظهر",
 "en": "- WhatsApp base updated to version 2.25.15.80\n- Fixed issue with number activation on some devices\n- Fixed the 'You must use the official WhatsApp' error message\n- Fixed crash after number activation\n- Fixed crashes when changing style or theme"
 },
-  "downloadUrl": "https://youtu.be/AoG5i1GGdts",
+  "dli": "https://youtu.be/AoG5i1GGdts",
   "forceUpdate": false
